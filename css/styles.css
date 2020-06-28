@@ -1,0 +1,137 @@
+h1{
+  color: : #66BFBF;
+}
+.hor1
+{
+  width: 15%;
+  margin:0px auto;
+  border-style: dotted ;
+border-width: 5px;
+border-bottom-style: none;
+border-color: #EAF6F6
+
+height: 0px;
+
+}
+a{
+color:darkblue;
+margin: 20px;
+text-decoration: none;
+}
+a:hover{
+  color:purple;
+}
+.hor2
+{
+  width: 15%;
+  margin:0px auto;
+  border-style: dotted ;
+border-width: 5px;
+border-bottom-style: none;
+border-color: #EAF6F6
+
+height: 0px;
+}
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding: 30px;
+  margin: 10px;
+
+}
+.chillies
+{
+  width: 25%;
+  float: right;
+  padding-left: 20px;
+}
+.computer{
+  width: 25%;
+  float: left;
+  padding-right: 20px;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.para{
+  font-weight: normal;
+}
+h2{
+  color: #66BFBF;
+}
+.myButton {
+	background-color:#7892c2;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:18px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+h3{
+  color:#11999E;
+}
+a{
+  color:#11999E;
+}
+body{
+  text-align: center;
+}
+.h1
+{
+  font-size: 2rem;color: #66BFBF;
+}
+.pro
+{
+  text-decoration: underline;
+
+}
+.photo{
+  border-radius: 400px;
+
+}
+.first{
+
+padding-top: 50px;background-color: skyblue;
+font-family: 'Pacifico', cursive;
+height: 600px;
+}
+.moun{
+  position: absolute;
+  left: 400px;
+top: 300px;
+
+}
+.up
+{
+  position:absolute;
+  left:900px;
+}
+.down{
+  position:absolute;
+  left:300px;
+  top:200px;
+}
+.middle-container
+{}
+.bottom-container
+{
+
+}
